@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Job Comparison UI</string>
+    <string name="app_title">Job Comparison App</string>
+
+    <string name="main_menu">Main Menu</string>
+    <string name="enter_edit_current_job">Enter / Edit Current Job</string>
+    <string name="add_job_offer">Add Job Offer</string>
+    <string name="edit_settings">Edit Settings</string>
+    <string name="compare_jobs">Compare Jobs</string>
+    <string name="view_job_ranks">View Job Ranks</string>
+    <string name="exit">Exit</string>
+
+    <string name="job_details">Job Details</string>
+    <string name="current_job_details">Current Job Details</string>
+    <string name="job_offer_details">Job Offer Details</string>
+    <string name="label_title">Title</string>
+    <string name="label_company">Company</string>
+    <string name="label_location">Location</string>
+    <string name="label_living_cost_index">Living cost (index)</string>
+    <string name="label_salary">Salary</string>
+    <string name="label_bonus">Bonus</string>
+    <string name="label_health_insurance">Health Insurance</string>
+    <string name="label_employee_discount">Employee Discount</string>
+    <string name="label_adoption_assistance">Adoption Assistance</string>
+    <string name="label_dental_insurance">Dental Insurance</string>
+
+    <string name="settings">Settings</string>
+    <string name="label_salary_weight">Salary Weight</string>
+    <string name="label_bonus_weight">Bonus Weight</string>
+    <string name="label_health_insurance_weight">Health Insurance Weight</string>
+    <string name="label_employee_discount_weight">Employee Discount Weight</string>
+    <string name="label_adoption_assistance_weight">Adoption Assistance Weight</string>
+    <string name="label_dental_insurance_weight">Dental Insurance Weight</string>
+    <string name="default_weight">1</string>
+
+    <string name="display_job_rankings">Display Job Rankings</string>
+
+    <string name="compare_two_jobs">Compare Two Jobs</string>
+    <string name="label_first_job">First Job</string>
+    <string name="label_second_job">Second Job</string>
+    <string name="compare">Compare</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+</resources>
